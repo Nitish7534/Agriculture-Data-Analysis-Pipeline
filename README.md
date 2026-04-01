@@ -86,20 +86,34 @@ Performed multiple transformations using SQL:
 ## 📊 Power BI Dashboards
 
 ### 📈 Rainfall Analysis
-- Rainfall distribution across regions
-- Rainfall category comparison
+
+- Analyzed rainfall trends across years and seasons  
+- Identified high rainfall crops like Paddy and Arecanut  
+- Location insights showed Bangalore as a high rainfall region  
+
+---
 
 ### 🌡️ Temperature Analysis
-- Temperature trends over years
-- Crop-wise temperature insights
+
+- Compared temperature variations across seasons and years  
+- Found higher temperatures in Kharif and Zaid seasons  
+- Highlighted crop and location-based temperature patterns  
+
+---
 
 ### 💧 Humidity Analysis
-- Humidity vs crop yield
-- Seasonal humidity variations
+
+- Observed stable humidity across years and regions  
+- Minimal variation across seasons and crops  
+- Indicated humidity has less impact variability  
+
+---
 
 ### 🌾 Yield Analysis
-- Yield trends across years
-- Impact of rainfall and irrigation
+
+- Analyzed yield trends across years and seasons  
+- Identified top crops like Cotton and Coconut  
+- Highlighted high yield regions like Kodagu and Mysuru  
 
 ---
 
